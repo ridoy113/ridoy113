@@ -2,7 +2,7 @@
 ![I am a MERN Steck Developer with JavaScript and React](https://i.ibb.co/PYYdTKv/banner.gif)
 
 
-## I am a passionate  JavaScript and React developer from Bangladesh . I can develop any website using  JavaScript and React. All websites are 100% RESPONSIVE, FAST and SECURED. I give my best services for my client or company. 
+## I am a passionate  JavaScript and React developer from Bangladesh . 
 
 
 # 💫 About Me:

@@ -2,7 +2,7 @@
 ![I am a MERN Steck Developer with JavaScript and React](https://i.ibb.co/PYYdTKv/banner.gif)
 
 
-# I am a passionate  JavaScript and React developer from Bangladesh . 
+## I am a passionate  JavaScript and React developer from Bangladesh . 
 
 
 # 💫 About Me:

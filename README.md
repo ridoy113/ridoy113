@@ -26,7 +26,7 @@
 
 
 ## 🕵️‍♀️ Profile Viewer:
-[![](https://visitcount.itsvg.in/api?id=ridoy113&icon=6&color=12)](https://visitcount.itsvg.in)
+[![](https://gpvc.arturio.dev/ridoy113)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ridoy113&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>

@@ -52,5 +52,4 @@
 
 # 📊 GitHub Activity Graph
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ridoy113&theme=chartreuse-dark)
-https://activity-graph.herokuapp.com/graph?username=ridoy113&theme=chartreuse-dark
 

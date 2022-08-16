@@ -1,5 +1,5 @@
 # 👋 Hey! Nice to see you.
-![](https://i.ibb.co/kS7mbY2/1-IRGHmi-Gsa16sted-Qv-Ia-Zfw.gif)
+![](https://i.ibb.co/Jkq1q5Y/banner.gif)
 ## I am a passionate  JavaScript and React developer from Bangladesh. 
 
 

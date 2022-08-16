@@ -4,7 +4,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on the MERN stack<br>🌱 I’m currently learning React Native<br>💬 Ask me about JavaScript, node js, react.js<br>📫 How to reach me: almamounhridoy113@gmail.com<br>⚡ Fun fact: I love to travel and type code.
+🔭 I’m currently working on the MERN stack<br>🌱 I’m currently learning C, React Native, Redux<br>💬 Ask me about JavaScript, node js, react.js<br>📫 How to reach me: almamounhridoy113@gmail.com<br>⚡ Fun fact: I love to travel and type code.
 
 
 

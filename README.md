@@ -1,6 +1,6 @@
 # 👋 Hey! Nice to see you.
 ![](https://i.ibb.co/kS7mbY2/1-IRGHmi-Gsa16sted-Qv-Ia-Zfw.gif)
-## I am a passionate  JavaScript and React developer from Bangladesh . 
+## I am a passionate  JavaScript and React developer from Bangladesh. 
 
 
 # 💫 About Me:
@@ -9,7 +9,7 @@
 
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/mdalmamun.ridoy) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/accounts/login/?next=/a.m.ridoy4/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/almamunridoy/)
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@Ridoy113Al) 
 

@@ -1,7 +1,5 @@
-# Hi there 👋, I am 
-![I am a MERN Steck Developer with JavaScript and React](https://i.ibb.co/kS7mbY2/1-IRGHmi-Gsa16sted-Qv-Ia-Zfw.gif)
-
-
+# 👋 Hey! Nice to see you.
+![I am a MERN Steck Developer with JavaScript and React]https://i.ibb.co/kS7mbY2/1-IRGHmi-Gsa16sted-Qv-Ia-Zfw.gif
 ## I am a passionate  JavaScript and React developer from Bangladesh . 
 
 

@@ -1,5 +1,5 @@
 # 👋 Hey! Nice to see you
-![]( <img align="left" width="600" height="200" src="https://i.ibb.co/JCgrCQr/MD-Al-Mamun-Ridoy-1.png">)
+![](https://i.ibb.co/JCgrCQr/MD-Al-Mamun-Ridoy-1.png)
 ## I am a passionate  JavaScript and React developer from Bangladesh. 
 
 

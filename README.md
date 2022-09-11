@@ -1,4 +1,4 @@
-# 👋 Hey! Nice to see you...
+# 👋 Hey! Nice to see you
 ![](https://i.ibb.co/Jkq1q5Y/banner.gif)
 ## I am a passionate  JavaScript and React developer from Bangladesh. 
 

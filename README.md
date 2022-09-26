@@ -39,8 +39,8 @@
 
 # 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ridoy113&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
-https://github-profile-trophy.vercel.app/?username=ridoy113&theme=dark_lover
+[![trophy](https://github-profile-trophy.vercel.app/?username=ridoy113&theme=dark_lover)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 

@@ -1,5 +1,5 @@
 # 👋Hey! Nice to see you
-![](https://i.ibb.co/JCgrCQr/MD-Al-Mamun-Ridoy-1.png)
+
 
 
 <a href="https://app.daily.dev/devridoy"><img src="https://api.daily.dev/devcards/996a5902a6de48c5ba789921627564de.png?r=pos" width="400" alt="Md. Al Mamun Ridoy's Dev Card"/></a>

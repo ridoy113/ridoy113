@@ -2,7 +2,7 @@
 
 
 
-<a href="https://app.daily.dev/devridoy"><img src="https://i.ibb.co/qpsDwNY/thoughtworks-gif-dribbble.gif" width="200" alt="Md. Al Mamun Ridoy's Dev Card"/></a>
+<img src="https://i.ibb.co/qpsDwNY/thoughtworks-gif-dribbble.gif" width="300" alt="Md. Al Mamun Ridoy's Dev Card"/></a>
 
 
 ## I am a passionate  JavaScript and React developer from Bangladesh. 
